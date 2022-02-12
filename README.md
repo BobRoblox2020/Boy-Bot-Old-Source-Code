@@ -10,13 +10,13 @@
 # Setup
 To run the bot, you need to install these package
 ```
-    discord.js
-    express   
-    fs
-    got
-    moment
-    mongoose
-    ms
-    path
-    random-anime
+discord.js
+express   
+fs
+got
+moment
+mongoose
+ms
+path
+random-anime
 ```
